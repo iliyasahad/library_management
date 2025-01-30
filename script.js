@@ -1,1 +1,13 @@
-console.log("Hello")
+const myLibrary = [];
+
+function Book() {
+
+}
+
+function addBookToLibrary() {
+
+}
+
+function searchLibrary() {
+    
+}
