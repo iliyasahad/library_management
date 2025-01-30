@@ -8,6 +8,6 @@ function addBookToLibrary() {
 
 }
 
-function searchLibrary() {
+function showLibrary(arr) {
 
 }
